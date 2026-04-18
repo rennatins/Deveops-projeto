@@ -12,4 +12,4 @@ def calcular(a, b, operacao):
 
 
 if __name__ == "__main__":
-    print("Aplicação rodando com sucesso!")
+    print("Aplicação rodando com sucesso! 🚀")
