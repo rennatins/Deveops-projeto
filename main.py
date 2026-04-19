@@ -1,3 +1,4 @@
+
 def calcular(a, b, operacao):
     if operacao == "1":
         return a + b
@@ -12,4 +13,5 @@ def calcular(a, b, operacao):
 
 
 if __name__ == "__main__":
-    print("Aplicação rodando com sucesso! 🚀")
+    print("Calculadora rodando com sucesso! 🚀")
+    print("Atividade DevOps")
