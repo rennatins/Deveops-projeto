@@ -1,3 +1,4 @@
+# Função responsável pelos cálculos
 def calcular(a, b, operacao):
     if operacao == "1":
         return a + b
@@ -11,6 +12,8 @@ def calcular(a, b, operacao):
         return a / b
     else:
         return None
+
+# Função da aplicação
 
 
 def main():
