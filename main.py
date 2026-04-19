@@ -42,5 +42,6 @@ def main():
     print("\n✔ Sistema finalizado.")
 
 
+# Execução do programa
 if __name__ == "__main__":
     main()
