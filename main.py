@@ -47,4 +47,4 @@ def main():
 
 # Execução do programa
 if __name__ == "__main__":
-    print("Aplicação rodando com sucesso!")
+    main()
